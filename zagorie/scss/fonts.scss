@@ -1,0 +1,95 @@
+@font-face {
+  // название шрифта(чтобы не запутаться лучше указать название папки со шрифтом) 
+  font-family: "Gogol";
+  // адрес шрифта и тип 
+  src: url("../fonts/gogol/gogol_regular.otf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "TTInterfacesMedium";
+  src: url("../fonts/ttinterfaces/TTInterfacesMedium.ttf");
+  src: url("../fonts/TTInterfacesMedium/TTInterfacesMedium.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/TTInterfacesMedium/TTInterfacesMedium.woff") format("woff"),
+    url("../fonts/ttinterfaces/TTInterfacesMedium.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "TTInterfacesLight";
+  src: url("../fonts/TTInterfacesLight/TTInterfacesLight.eot");
+  src: url("../fonts/TTInterfacesLight/TTInterfacesLight.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/TTInterfacesLight/TTInterfacesLight.woff") format("woff"),
+    url("../fonts/TTInterfacesLight/TTInterfacesLight.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "TTInterfacesRegular";
+  src: url("../fonts/ttinterfaces/TTInterfacesRegular.ttf");
+  src: url("../fonts/TTInterfacesRegular/TTInterfacesRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/TTInterfacesRegular/TTInterfacesRegular.woff") format("woff"),
+    url("../fonts/ttinterfaces/TTInterfacesRegular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "TTInterfacesBold";
+  src: url("../fonts/TTInterfacesBold/TTInterfacesBold.eot");
+  src: url("../fonts/TTInterfacesBold/TTInterfacesBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/TTInterfacesBold/TTInterfacesBold.woff") format("woff"),
+    url("../fonts/TTInterfacesBold/TTInterfacesBold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "TTInterfacesSemiBold";
+  src: url("../fonts/TTInterfacesSemiBold/TTInterfacesSemiBold.eot");
+  src: url("../fonts/TTInterfacesSemiBold/TTInterfacesSemiBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/TTInterfacesSemiBold/TTInterfacesSemiBold.woff") format("woff"),
+    url("../fonts/TTInterfacesSemiBold/TTInterfacesSemiBold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  // название шрифта(чтобы не запутаться лучше указать название папки со шрифтом) 
+  font-family: "pprigthgothicTallRegular";
+  // адрес шрифта и тип 
+  src: url("../fonts//pp-right-gothic/PPRightGothic-TallRegular.otf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  // название шрифта(чтобы не запутаться лучше указать название папки со шрифтом) 
+  font-family: "PP Right Gothic";
+  // адрес шрифта и тип 
+  src: url("../fonts/pp-right-gothic/PPRightGothic-Medium.otf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  // название шрифта(чтобы не запутаться лучше указать название папки со шрифтом) 
+  font-family: "pprigthgothicTightMedium";
+  // адрес шрифта и тип 
+  src: url("../fonts/pp-right-gothic/PPRightGothic-TightMedium.otf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+
+@font-face {
+  // название шрифта(чтобы не запутаться лучше указать название папки со шрифтом) 
+  font-family: "PragmaticaBook";
+  // адрес шрифта и тип 
+  src: url("../fonts/pragmatica/Pragmatica-Book.eot") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
